@@ -1,40 +1,58 @@
-<img align="right" src="https://user-images.githubusercontent.com/116350364/236654703-8aa5bfe8-b13f-45af-b751-8e47b61b1f6d.gif"/>
-&nbsp;
+Hello there! 👋 My name is Vitor Schelb! 
+=============================
+🌌 Enthusiastic about transforming ideas into code that inspires and impacts people's lives!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50f6f9f&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Vitor+Schelb)
+📚 On a journey of continuous learning, exploring and connecting different knowledge areas!
+
+🎨 My main hobbies are reading, listening to music, and running.
 
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=vitorschelb&color=blue" alt="Profile views" /></p>
+Full Stack Developer
+--------------------
+<p align="right">
+  <img align="right" alt="GIF" src="https://github.com/vitorschelb/vitorschelb/assets/116350364/3a72e76c-b1c7-4cb9-b41e-98d33ec638de" width="400px"/>
+</p>
 
-👨‍💻 Front-end Developer!
+
+🚀  I'm currently working on [PodCodar App](http://github.com/podcodar/app)
 
 ⚛️ Working primarily with **React**, **Next** & **TypeScript**
 
-🚧 Check out my [portfolio]
+🧠  I'm currently learning **AWS** and **Prisma**
 
-🚀 Also, consider vistiting my [Notion](https://solar-bit-893.notion.site/f532708ef8e749009495511704e61ee4?v=433b3e2b665443dfab4abbaf65bbb33f) to understand my journey as a Front-end Developer
+🤝  I'm open to collaborating with committed teams on challenging projects
 
-## 🛠 &nbsp;Tech Stacks
+📝 You can check my <a href="/" target="_blank">Curriculum Vitae </a>
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Styled-components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+📫 You can contact me at vitorschelb.contact@gmail.com or via <a href="https://www.linkedin.com/in/vitor-schelb" target="_blank" rel="noreferrer"> LinkedIn </a>
 
-## 📧 &nbsp;Contact
+
+Tech Stack
+--------------------
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vitor-schelb-37b109124/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-vitorschelb-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="mailto: vacschelb.apps@gmail.com" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-vacschelb.apps@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-              
+Socials
+--------------------
+
+<p align="left"> <a href="https://www.linkedin.com/in/vitor-schelb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
