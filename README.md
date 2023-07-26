@@ -1,11 +1,8 @@
-Hello there! 👋 My name is Vitor Schelb! 
+Hello there! 👋 My name is Vitor Schelb.
 =============================
-🌌 Enthusiastic about transforming ideas into code that inspires and impacts people's lives!
-
-📚 On a journey of continuous learning, exploring and connecting different knowledge areas!
-
-🎨 My main hobbies are reading, listening to music, and running.
-
+🌌 Enthusiastic about transforming ideas into code that inspires and impacts people's lives!  
+📚 On a journey of continuous learning, exploring and connecting different knowledge areas!  
+🎭 My main hobbies are reading, listening to music, and running.  
 
 Full Stack Developer
 --------------------
