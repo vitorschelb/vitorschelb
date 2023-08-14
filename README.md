@@ -19,7 +19,7 @@ Full Stack Developer
 
 🤝  I'm open to collaborating with committed teams on challenging projects
 
-📝 You can check my <a href="/" target="_blank">Curriculum Vitae </a>
+📝 You can check my <a href="https://drive.google.com/file/d/1-lX56bI2Tail4D5M61SPsQWA8O-OKMcN/view?usp=drive_link" target="_blank">Curriculum Vitae </a>
 
 📫 You can contact me at vitorschelb.contact@gmail.com or via <a href="https://www.linkedin.com/in/vitor-schelb" target="_blank" rel="noreferrer"> LinkedIn </a>
 
