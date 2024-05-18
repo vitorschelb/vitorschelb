@@ -15,7 +15,8 @@ Full Stack Developer
 
 🤝  I'm open to collaborating with committed teams on challenging projects
 
-📝 You can check my <a href="https://drive.google.com/file/d/1yYK1KI8fomj4bBzXbUM_jh3FDhsZRnwr/view?usp=sharing" target="_blank">Curriculum Vitae </a>
+📝 You can check my <a href="https://drive.google.com/file/d/1yYK1KI8fomj4bBzXbUM_jh3FDhsZRnwr/view?usp=sharing" target="_blank">Curriculum Vitae </a> <br />
+
 📫 You can contact me at vitorschelb.contact@gmail.com or via <a href="https://www.linkedin.com/in/vitor-schelb" target="_blank" rel="noreferrer"> LinkedIn </a>
 
 
@@ -42,6 +43,8 @@ Tech Stack
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
 
 Socials
