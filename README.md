@@ -6,10 +6,6 @@ Hello there! 👋 My name is Vitor Schelb.
 
 Full Stack Developer
 --------------------
-<p align="right">
-  <img align="right" alt="GIF" src="https://github.com/vitorschelb/vitorschelb/assets/116350364/3a72e76c-b1c7-4cb9-b41e-98d33ec638de" width="400px"/>
-</p>
-
 
 🚀  I'm currently working on [PodCodar App](http://github.com/podcodar/app)
 
