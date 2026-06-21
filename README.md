@@ -132,17 +132,24 @@ Software Engineer with 4+ years <strong>forging and optimizing systems</strong> 
 </div>
 <hr></hr>
 <div align="center">
-<a href="https://www.linkedin.com/in/vitor-schelb/" target="_blank">
-  <img src="https://i.ibb.co/PGSskYbN/Gemini-Generated-Image-am0hgdam0hgdam0h-1.png" alt="LinkedIn" border="0" />
-</a>
-  </div>
-<hr></hr>
-<pre align="center">
+<table border="0" cellspacing="0" cellpadding="10">
+<tr>
+<td valign="middle">
+  <a href="https://www.linkedin.com/in/vitor-schelb/" target="_blank">
+    <img width="300" src="https://i.ibb.co/PGSskYbN/Gemini-Generated-Image-am0hgdam0hgdam0h-1.png" alt="LinkedIn" border="0" />
+  </a>
+</td>
+<td valign="middle">
+  <pre>
 ╔══════════════════════════════════════════╗
 ║  "May your builds be green, your bugs  ║
 ║   be few, and your dragons be tamed."  ║
 ╚══════════════════════════════════════════╝
-</pre>
+  </pre>
+</td>
+</tr>
+</table>
+</div>
 
 </br>
 
